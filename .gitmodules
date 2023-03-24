@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MSCsimtester"]
+	path = MSCsimtester
+	url = https://github.com/cran/MSCsimtester
+	shallow = true
+	registered = true
